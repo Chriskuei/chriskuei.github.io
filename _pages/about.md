@@ -27,5 +27,5 @@ Education
 }
 </style>
 <div class="container">
-<a href="https://clustrmaps.com/site/1beb2" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=4-OPgqd3nJuRsXOZPxc_27NXZkw6wst1OfC9WNVR2mw&cl=ffffff"></a>
+  <a href='https://clustrmaps.com/site/1bjbx'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=3hOKfeexZUdpSFmQcZ-RNPDNW3WVv9ducU6gljhPy_M&co=a2acb3&ct=ffffff'/></a>
 </div>
