@@ -19,7 +19,18 @@ Education
     * Advisor: Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/)
   * **Beijing Institute of Technology**
     * B.E. in Internet of Things, 2014 - 2018
-  
+
+Teaching Experiments
+------
+  * Teaching Assistant, B0912008Y: Machine Learning, UCAS, 2019/2020 Fall
+
+Hornors and Awards
+------
+  * E Fund Scholarship, Guangdong E Fund Education Foundation & ICT, CAS, 2021
+  * CIKM’2021 Student Travel Grant, 2021
+  * Merit Student, University of Chinese Academy of Sciences, 2019, 2020
+  * Outstanding Graduate, Beijing Municipal Commission of Education, 2018
+
 <style>
 .container{
   width: 100%;
