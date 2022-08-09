@@ -12,7 +12,7 @@ redirect_from:
 ### 2022
 1. **CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks** <br>
 <ins>**Jiangui Chen**</ins>, Ruqing Zhang, Jiafeng Guo, Yiqun Liu, Yixing Fan, Xueqi Cheng <br>
-**CIKM'2022**: Proceedings of the 31th ACM International Conference on Information and Knowledge Management
+**CIKM'2022**: Proceedings of the 31st ACM International Conference on Information and Knowledge Management
 2. **GERE: Generative Evidence Retrieval for Fact Verification** [<a href='https://dl.acm.org/doi/pdf/10.1145/3477495.3531827'>PDF</a>][<a href='https://github.com/Chriskuei/GERE'>Code</a>] <br>
 <ins>**Jiangui Chen**</ins>, Ruqing Zhang, Jiafeng Guo, Yixing Fan, Xueqi Cheng <br>
 **SIGIR'2022**: Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval
