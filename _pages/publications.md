@@ -7,17 +7,20 @@ redirect_from:
 ---
 
 
-<!-- You can also find my publications on <a href="https://scholar.google.com/citations?user=6U4SXnUAAAAJ&hl=en">my Google Scholar profile</a>. -->
-
-### 2022
-1. **CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks** <br>
+IN THE YEAR OF 2022
+------
+1. **CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks** [<a href='https://arxiv.org/abs/2208.07652'>PDF</a>][<a href='https://github.com/ict-bigdatalab/CorpusBrain'>Code</a>] <br>
 <ins>**Jiangui Chen**</ins>, Ruqing Zhang, Jiafeng Guo, Yiqun Liu, Yixing Fan, Xueqi Cheng <br>
 **CIKM'2022**: Proceedings of the 31st ACM International Conference on Information and Knowledge Management
 2. **GERE: Generative Evidence Retrieval for Fact Verification** [<a href='https://dl.acm.org/doi/pdf/10.1145/3477495.3531827'>PDF</a>][<a href='https://github.com/Chriskuei/GERE'>Code</a>] <br>
 <ins>**Jiangui Chen**</ins>, Ruqing Zhang, Jiafeng Guo, Yixing Fan, Xueqi Cheng <br>
 **SIGIR'2022**: Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval
+3. **Counterfactual Inference for Fact Verification Debiasing** <br>
+<ins>**Jiangui Chen**</ins>, Ruqing Zhang, Jiafeng Guo, Yixing Fan <br>
+**CCIR'2022**: The 28th China Conference on Information Retrieval
 
-### 2021
+IN THE YEAR OF 2021
+------
 1. **FedMatch: Federated Learning Over Heterogeneous Question Answering Data** [<a href='https://dl.acm.org/doi/pdf/10.1145/3459637.3482345'>PDF</a>][<a href='https://github.com/Chriskuei/FedMatch'>Code</a>]<br>
 <ins>**Jiangui Chen**</ins>, Ruqing Zhang, Jiafeng Guo, Yixing Fan, Xueqi Cheng <br>
 **CIKM'2021**: Proceedings of the 30th ACM International Conference on Information and Knowledge Management
