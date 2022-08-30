@@ -7,10 +7,10 @@ redirect_from:
 ---
 
 
-[MatchZoo](https://ntmc-community.github.io)
+MatchZoo Toolkit
 ------
-![MatchZoo stars](https://img.shields.io/github/stars/NTMC-Community/MatchZoo?label=MatchZoo&style=social)
-![MatchZoo-py stars](https://img.shields.io/github/stars/NTMC-Community/MatchZoo-py?label=MatchZoo-py&style=social)
-![Awesome resource stars](https://img.shields.io/github/stars/NTMC-Community/awesome-neural-models-for-semantic-match?label=awesome%20Neural%20Matching%20Models&style=social)
+[![MatchZoo stars](https://img.shields.io/github/stars/NTMC-Community/MatchZoo?label=MatchZoo&style=social)](https://github.com/NTMC-Community/MatchZoo)
+[![MatchZoo-py stars](https://img.shields.io/github/stars/NTMC-Community/MatchZoo-py?label=MatchZoo-py&style=social)](https://github.com/NTMC-Community/MatchZoo-py)
+[![Awesome resource stars](https://img.shields.io/github/stars/NTMC-Community/awesome-neural-models-for-semantic-match?label=awesome%20Neural%20Matching%20Models&style=social)](https://github.com/NTMC-Community/awesome-neural-models-for-semantic-match)
 
-The goal of MatchZoo is to provide a high-quality codebase for deep text matching research, such as document retrieval, question answering, conversational response ranking, and paraphrase identification. With the unified data processing pipeline, simplified model configuration and automatic hyper-parameters tunning features equipped, MatchZoo is flexible and easy to use.
+The goal of [MatchZoo](https://ntmc-community.github.io) is to provide a high-quality codebase for deep text matching research, such as document retrieval, question answering, conversational response ranking, and paraphrase identification. With the unified data processing pipeline, simplified model configuration and automatic hyper-parameters tunning features equipped, MatchZoo is flexible and easy to use.
