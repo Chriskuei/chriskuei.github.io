@@ -10,7 +10,7 @@ redirect_from:
 IN THE YEAR OF 2022
 ------
 1. **CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks** 
-[[PDF](https://arxiv.org/abs/2208.07652)][[Code](https://github.com/ict-bigdatalab/CorpusBrain)] <br>
+[[PDF](https://dl.acm.org/doi/pdf/10.1145/3511808.3557271)][[Code](https://github.com/ict-bigdatalab/CorpusBrain)] <br>
 <ins>**Jiangui Chen**</ins>, Ruqing Zhang, Jiafeng Guo, Yiqun Liu, Yixing Fan, Xueqi Cheng <br>
 **CIKM'2022**: Proceedings of the 31st ACM International Conference on Information and Knowledge Management
 2. **GERE: Generative Evidence Retrieval for Fact Verification** 
