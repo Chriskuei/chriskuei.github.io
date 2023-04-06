@@ -25,8 +25,9 @@ Teaching Experiments
 
 Hornors and Awards
 ------
+  * Special Prize of the President Sholarship, ICT, CAS, 2023
   * E Fund Scholarship, Guangdong E Fund Education Foundation & ICT, CAS, 2021
-  * Student Travel Grant (CIKM'2021, SIGIR'2022)
+  * Student Travel Grant (CIKM'2021, SIGIR'2022, CIKM'2022)
   * Merit Student, University of Chinese Academy of Sciences, 2019, 2020
   * Outstanding Graduate, Beijing Municipal Commission of Education, 2018
 
