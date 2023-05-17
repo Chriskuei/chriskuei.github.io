@@ -12,6 +12,9 @@ IN THE YEAR OF 2023
 - **A Unified Generative Retriever for Knowledge-Intensive Language Tasks via Prompt Learning** <br>
 <ins>**Jiangui Chen**</ins>, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yiqun Liu, Yixing Fan, Xueqi Cheng <br>
 **SIGIR'2023**: Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
+- **Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies** <br>
+Yubao Tang, Ruqing Zhang, Jiafeng Guo, <ins>**Jiangui Chen**</ins>, Zuowei Zhu, Shuaiqiang Wang, Dawei Yin and Xueqi Cheng  <br>
+**KDD'2023**: 29th SIGKDD Conference on Knowledge Discovery and Data Mining
 
 IN THE YEAR OF 2022
 ------
