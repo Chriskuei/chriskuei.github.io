@@ -19,6 +19,11 @@ Education
   * **Beijing Institute of Technology**
     * B.E. in Internet of Things, 2014 - 2018
 
+Talks
+------
+  * A Unified Generative Retriever for Knowledge-Intensive Language Tasks via Prompt Learning, Tsinghua University, 20230605
+  * Deciphering the AI Large Model (解密AI大模型), [Capital Library of China](https://www.clcn.net.cn/), 20230526
+
 Teaching Experiments
 ------
   * Teaching Assistant, B0912008Y: Machine Learning, UCAS, 2019/2020 Fall
