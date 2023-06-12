@@ -36,6 +36,10 @@ Hornors and Awards
   * Merit Student, University of Chinese Academy of Sciences, 2019, 2020
   * Outstanding Graduate, Beijing Municipal Commission of Education, 2018
 
+Academic Services
+------
+  * PC Member: CIKM2023, SIGIR2023, SIGIR-AP2023, SIGIRGenIR23, WI-IAT2023, WI-IAT2022
+
 <style>
 .container{
   width: 100%;
