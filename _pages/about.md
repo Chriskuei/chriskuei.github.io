@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a fifth-year Ph.D. student in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/). I am a member of [CAS Key Lab of Web Data Science and Technology](http://www.bigdatalab.ac.cn/). My research interests lie in the general area of Information Retrieval (IR), with a special focus on generative retrieval, fact checking and open-domain question answering.
+I am a fifth-year Ph.D. student in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/). I am a member of [CAS Key Lab of Web Data Science and Technology](http://www.bigdatalab.ac.cn/). My research interests lie in the general area of Information Retrieval (IR), with a special focus on generative retrieval, fact checking, and open-domain question answering.
 
 Education
 ------
@@ -28,9 +28,9 @@ Teaching Experiments
 ------
   * Teaching Assistant, B0912008Y: Machine Learning, UCAS, 2019/2020 Fall
 
-Hornors and Awards
+Honors and Awards
 ------
-  * Special Prize of the President Sholarship, ICT, CAS, 2023
+  * Special Prize of the President Scholarship, ICT, CAS, 2023
   * E Fund Scholarship, Guangdong E Fund Education Foundation & ICT, CAS, 2021
   * Student Travel Grant (CIKM'2021, SIGIR'2022, CIKM'2022)
   * Merit Student, University of Chinese Academy of Sciences, 2019, 2020
