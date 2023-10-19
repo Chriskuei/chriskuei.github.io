@@ -9,6 +9,9 @@ redirect_from:
 
 IN THE YEAR OF 2023
 ------
+- **Continual Learning for Generative Retrieval over Dynamic Corpora** <br>
+<ins>**Jiangui Chen**</ins>, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan, Xueqi Cheng <br>
+**CIKM'2023**: Proceedings of the 32nd ACM International Conference on Information and Knowledge Management
 - **A Unified Generative Retriever for Knowledge-Intensive Language Tasks via Prompt Learning** <br>
 <ins>**Jiangui Chen**</ins>, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yiqun Liu, Yixing Fan, Xueqi Cheng <br>
 **SIGIR'2023**: Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
