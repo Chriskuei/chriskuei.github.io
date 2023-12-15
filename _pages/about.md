@@ -38,7 +38,7 @@ Honors and Awards
 
 Academic Services
 ------
-  * PC Member: CIKM2023, SIGIR2023, SIGIR-AP2023, SIGIRGenIR23, WI-IAT2023, WI-IAT2022
+  * PC Member: SIGIR2024, CIKM2023, SIGIR2023, SIGIR-AP2023, SIGIRGenIR23, WI-IAT2023, WI-IAT2022
 
 <style>
 .container{
